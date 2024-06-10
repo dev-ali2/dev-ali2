@@ -1,7 +1,7 @@
 <h1 align="center">Hey <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="40" />
 , I'm Ali</h1>
 <h3 align="center">A cross Platform App developer</h3>
-<img align="center" alt="coding" width="700"  src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<img align="center" alt="coding" width="700"  src="mario.gif">
 
 <p align="left"> <a href="https://twitter.com/devali02" target="blank"><img src="https://img.shields.io/twitter/follow/devali02?logo=twitter&style=for-the-badge" alt="devali02" /></a> </p>
 
