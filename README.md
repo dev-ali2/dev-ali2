@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
 <h3 align="center">A software developer with a focus on building sleek UIs and cross-platform mobile apps.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-ali2&label=Profile%20views&color=0e75b6&style=flat" alt="dev-ali2" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-ali2" alt="dev-ali2" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/devali02" target="blank"><img src="https://img.shields.io/twitter/follow/devali02?logo=twitter&style=for-the-badge" alt="devali02" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [meetali.netlify.app](meetali.netlify.app)
 
 - 💬 Ask me about **Flutter, Kotlin, JavaScript**
@@ -29,5 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-ali2&show_icons=true&locale=en&layout=compact" alt="dev-ali2" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-ali2&show_icons=true&locale=en" alt="dev-ali2" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-ali2&" alt="dev-ali2" /></p>
